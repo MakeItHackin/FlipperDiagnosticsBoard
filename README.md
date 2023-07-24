@@ -1,6 +1,6 @@
 # GPIO DIAGNOSTICS BOARD FOR FLIPPER ZERO
 
-![alt text](https://raw.githubusercontent.com/MakeItHackin/FlipperProtoBoards/main/images/p1.jpg)
+![alt text](https://raw.githubusercontent.com/MakeItHackin/FlipperDiagnosticsBoard/main/images/d5.jpg)
 
 ## PURCHASE:
 https://www.tindie.com/products/31151/
