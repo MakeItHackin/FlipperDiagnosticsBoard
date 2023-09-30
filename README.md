@@ -8,6 +8,10 @@ https://www.tindie.com/products/31151/
 ## YOUTUBE TUTORIAL / DEMONSTRATION: 
 Coming Soon   
 
+## LED ANIMATIONS:  
+Check out @CodeAllNight's project to animate the LEDs on this board.  Super cool!  
+https://github.com/jamisonderek/flipper-zero-tutorials/tree/fec280d3a5f06a8115f776c067ce066a5b46e711/gpio/gpio_badge
+
 ## DESCRIPTION:  
 This GPIO Diagnostics board helps you diagnose the output on the GPIO pins of your Flipper Zero.  If you want to make sure the GPIO pins are correctly outputting a signal, this board will help you do that!  The easiest way to troubleshoot is by using the GPIO menu in the Flipper and testing individual pin outputs or 'ALL' pins.
 
